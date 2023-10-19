@@ -4,9 +4,7 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
-
-## Outdoors
+### Outdoors
 
 <div class="third">
 <img src="/images/swimming2.JPG">
@@ -21,7 +19,7 @@ title: Hobbies
 
 <br>
 
-## Photographer
+### Photographer
 
 <div class="third">
 <img src="/images/swimming2.JPG">
@@ -31,7 +29,7 @@ title: Hobbies
 
 <br>Coming soon...
 
-## Local culture
+### Local culture
 
 <div class="third">
 <img src="/images/swimming2.JPG">

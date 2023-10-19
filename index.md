@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 <img src="tanpeng1.jpg" class="floatpic" width="360" height="480">
 
@@ -14,7 +14,7 @@ I am a Ph.D. candidate of Human-Computer Interaction and under the supervision o
 
 ---
 
-## Research Interests
+### Research Interests
 
 - [Human-Engaged Computing](https://link.springer.com/article/10.1007/s42486-019-00007-0/) (HEC)
 - Rhythm and Synergized Interactions
@@ -25,6 +25,6 @@ I am a Ph.D. candidate of Human-Computer Interaction and under the supervision o
 The current project is Approaching **Rhythm** towards **Synergized Interactions**.
 
 
-## Recent Events
+### Recent Events
 
 Coming soon...
