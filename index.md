@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://caihanlin.com/tanpeng.jpg" class="floatpic" width="360" height="360">
 
 Here is **Peng Tan (Leo, 檀鹏)**.
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer interning with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
+Peng Tan is a Ph.D. candidate advised by [Prof. Xiangshi Ren](https://xiangshiren.com/) at **Center of Human-Engaged Computing (CHEC)**, Kochi University of Technology, JAPAN. Before that, Peng was a master student advised by [Prof. Yi Ji](https://yssjxy.gdut.edu.cn/info/1377/3900.htm) at **International Intelligent Interaction Design Lab (IIDL)**, Guangdong University of Technology, CHINA. Currently, Peng does research in HCI for Design, Human-Engaged Computing (HEC), Rhythm in HCI, High-level Thinking Enhancement. The current project is Designing for High-level Thinking Enhancement inspired by HEC.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
 
