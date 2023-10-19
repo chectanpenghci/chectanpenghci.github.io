@@ -12,7 +12,7 @@ I am a Ph.D. candidate of Human-Computer Interaction and under the supervision o
 
 <br>
 
-**<font color='red'>[Highlight]</font> I am looking for faculty position to start in 2024 Fall. Contact me if you have any leads!**
+<font color='red'>[Highlight]</font> I am looking for faculty position to start in 2024 Fall. Contact me if you have any leads!
 
 <br>
 
@@ -20,7 +20,7 @@ I am a Ph.D. candidate of Human-Computer Interaction and under the supervision o
 
 ## Research Interests
 
-- [Human-Engaged Computing](https://xiangshiren.com/) (HEC)
+- [Human-Engaged Computing](https://link.springer.com/article/10.1007/s42486-019-00007-0/) (HEC)
 - Rhythm and Synergized Interactions
 - Data and Computational Interactions
 - Inteactive Technologies (e.g., AR/VR) for Engagement
