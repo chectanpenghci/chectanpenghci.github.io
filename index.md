@@ -20,7 +20,7 @@ I am a Ph.D. candidate of Human-Computer Interaction and under the supervision o
 - Rhythm and Synergized Interactions
 - Data and Computational Interactions
 - Inteactive Technologies (e.g., AR/VR) for Engagement
-- Mental Health and Daily Activities
+- Designing for Mental Health and Daily Activities
 
 The current project is Approaching **Rhythm** towards **Synergized Interactions**.
 

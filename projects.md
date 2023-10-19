@@ -4,18 +4,17 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-Lastest Update: 27th Aug 2023
+Lastest Update: 18th Oct 2023
 
-## Synergized Interactions
+# Current Project: Approaching Rhythm towards Synergized Interactions.
 
-- Synergized Interactions.
+- Computational Frameworks for Synergized Interactions.
 
-
-## Rhythm Research
-
-- Synergized Interactions.
+- Empirical Studies for Synergized Interactions.
 
 
-## Mental Health
+# Previous Project: HCI Design for Intangible Cultural Heritatge (ICH)
 
-- Synergized Interactions.
+- Digital Heritage Education in Classroom
+
+- Designing Inteactive Technologies for Engagement of (ICH)
