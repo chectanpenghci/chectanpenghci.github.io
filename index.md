@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="tanpeng1.jpg" class="floatpic" width="360" height="480">
+<img src="tanpeng1.jpg"class="floatpic" width="360" height="480">
 
 Here is **Peng Tan (Leo, 檀鹏)**.
 
