@@ -13,8 +13,8 @@ Lastest Update: 18th Oct 2023
 - Empirical Studies for Synergized Interactions.
 
 
-### Previous Project: HCI Design for Intangible Cultural Heritatge (ICH)
+### Previous Project: HCI Design for Digital Heritage Education
 
-- Digital Heritage Education in Classroom
+- Investigating Digital Heritage Education in Classroom
 
-- Designing Inteactive Technologies for Engagement of (ICH)
+- Designing Inteactive Technologies for Novice Engagement

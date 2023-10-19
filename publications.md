@@ -26,7 +26,7 @@ Lastest Update: 15th Oct 2023.
 
 - **Tan, P.**, Ji, Y., Hills, D., & Fu, T. (2019). [Bridging knowledge between craftsman and learner in Chinese intangible cultural heritage through WebAR](https://dl.acm.org/doi/10.1145/3354918.3361900). In SIGGRAPH ASIA Art Gallery/Art Papers (pp. 1-5). **[EI]**
 
-- Ji, Y., **Tan, P.**, & Duh, H. B. L. (2018). [Research on personalized learning pattern in traditional handicraft using augmented reality: a case study of cantonese porcelain](https://dl.acm.org/doi/abs/10.1007/978-3-319-91244-8_25). In Human-Computer Interaction. Interaction in Context: 20th International Conference, HCI International 2018, Las Vegas, NV, USA, July 15–20, 2018, Proceedings, Part II 20 (pp. 304-316). Springer International Publishing.
+- Ji, Y., **Tan, P.**, & Duh, H. B. L. (2018). [Research on personalized learning pattern in traditional handicraft using augmented reality: a case study of cantonese porcelain](https://dl.acm.org/doi/abs/10.1007/978-3-319-91244-8_25). In Human-Computer Interaction. Interaction in Context: 20th International Conference, HCI International 2018, Las Vegas, NV, USA, July 15–20, 2018, Proceedings, Part II 20 (pp. 304-316). Springer International Publishing. **[EI]**
 
   <br>
 
