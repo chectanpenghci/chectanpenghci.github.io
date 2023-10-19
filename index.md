@@ -4,13 +4,11 @@ layout: page
 
 # About Me
 
-<img src="/Users/peng/Documents/GitHub/chectanpenghci.github.io/chectanpenghci.github.io/images" class="floatpic" width="360" height="360">
+<img src="tanpeng.jpg" class="floatpic" width="360" height="480">
 
 Here is **Peng Tan (Leo, 檀鹏)**.
 
 Peng Tan is a Ph.D. candidate of Engineering and under the supervision of [Prof. Xiangshi Ren](https://xiangshiren.com/) at **Center of Human-Engaged Computing (CHEC)**, Kochi University of Technology, Japan.Previously Peng was a master student of Cognition and Interaction Design, and advised by [Prof. Yi Ji](https://yssjxy.gdut.edu.cn/info/1377/3900.htm) at **International Intelligent Interaction Design Lab (IIDL)**, Guangdong University of Technology, China. Before starting my master, I had a bachelor of Industrial Design at Liuzhou Institute of Technology.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *tanpenghci[at]gmail[dot]com*
 
 <br>
 
