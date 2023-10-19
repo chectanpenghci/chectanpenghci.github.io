@@ -4,13 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/tanpeng.jpg" class="floatpic" width="360" height="360">
+<img src="https://chectanpenghci.github.io/tanpeng.jpg" class="floatpic" width="360" height="360">
 
 Here is **Peng Tan (Leo, 檀鹏)**.
 
 Peng Tan is a Ph.D. candidate advised by [Prof. Xiangshi Ren](https://xiangshiren.com/) at **Center of Human-Engaged Computing (CHEC)**, Kochi University of Technology, JAPAN. Before that, Peng was a master student advised by [Prof. Yi Ji](https://yssjxy.gdut.edu.cn/info/1377/3900.htm) at **International Intelligent Interaction Design Lab (IIDL)**, Guangdong University of Technology, CHINA. Currently, Peng does research in HCI for Design, Human-Engaged Computing (HEC), Rhythm in HCI, High-level Thinking Enhancement. The current project is Designing for High-level Thinking Enhancement inspired by HEC.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *tanpenghci[at]gmail[dot]com*
 
 <br>
 
