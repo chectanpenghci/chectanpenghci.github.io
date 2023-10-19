@@ -4,38 +4,30 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 15th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 15th Oct 2023.
 
 ## Conference Paper
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
+- Lu, Z., **Tan, P.**, Ji, Y., & Ma, X. (2022, June). [The Crafts+Fabrication Workshop: Engaging Students with Intangible Cultural Heritage-Oriented Creative Design](https://dl.acm.org/doi/abs/10.1145/3532106.3533525). In Designing Interactive Systems Conference (pp. 1071-1084). **[CCF C]**
 
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics.
+- **Tan, P.**, Ji, Y., & Xu, Y. (2021, September). [Rethinking of Intangible Cultural Heritage Teaching with Creative Programming in China](https://ieeexplore.ieee.org/document/9565529). In 2021 IEEE 4th International Conference on Multimedia Information Processing and Retrieval (MIPR) (pp. 299-302). IEEE. **[EI]**
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- **Tan, P.**, Hills, D., Ji, Y., & Feng, K. (2020, April). [Case study: creating embodied interaction with learning intangible cultural heritage through WebAR](https://dl.acm.org/doi/10.1145/3334480.3375199). In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-6). **[CCF A]**
+
+- **Tan, P.**, Ji, Y., Hills, D., & Fu, T. (2019). [Bridging knowledge between craftsman and learner in Chinese intangible cultural heritage through WebAR](https://dl.acm.org/doi/10.1145/3354918.3361900). In SIGGRAPH ASIA Art Gallery/Art Papers (pp. 1-5). **[EI]**
+
+- Ji, Y., **Tan, P.**, & Duh, H. B. L. (2018). [Research on personalized learning pattern in traditional handicraft using augmented reality: a case study of cantonese porcelain](https://dl.acm.org/doi/abs/10.1007/978-3-319-91244-8_25). In Human-Computer Interaction. Interaction in Context: 20th International Conference, HCI International 2018, Las Vegas, NV, USA, July 15–20, 2018, Proceedings, Part II 20 (pp. 304-316). Springer International Publishing.
 
   <br>
 
 ## Journal Paper
 
-- Coming soon... 🚀
+- **Tan, P.**, Ren, X., Cheng, Z., & Ji, Y. (2023). [A framework for students’ digital heritage education in the classroom-a human-engaged computing perspective](https://link.springer.com/article/10.1007/s10639-023-12199-1). Education and Information Technologies, 1-23. **[Q1, SSCI]**
 
-  <br>
+- Chen, S. S. C., Cui, H., **Tan, P.**, Sun, X., Ji, Y., & Duh, H. (2020). [Cantonese porcelain image generation using user-guided generative adversarial networks](https://ieeexplore.ieee.org/document/9175078). IEEE Computer Graphics and Applications, 40(5), 100-107. **[Q2, SCIE]**
 
-## Working Manuscript
+- Ji, Y., **Tan, P.**, & Hills, D. (2020). [Chinese traditional handicraft education using AR content](https://direct.mit.edu/leon/article-abstract/53/2/199/46746/Chinese-Traditional-Handicraft-Education-Using-AR?redirectedFrom=fulltext). Leonardo, 53(2), 199-200. **[Q1, A&HCI]**
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors Journal (IF: 3.847, JCR Q2). Under major modification.<br>
 
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
-
-  <br>
-
----
-
-## Undergraduate Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior Students.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
 
   <br>
