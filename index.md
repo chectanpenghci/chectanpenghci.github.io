@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://chectanpenghci.github.io/tanpeng.jpg" class="floatpic" width="360" height="360">
+<img src="/Users/peng/Documents/GitHub/chectanpenghci.github.io/chectanpenghci.github.io/images" class="floatpic" width="360" height="360">
 
 Here is **Peng Tan (Leo, 檀鹏)**.
 
