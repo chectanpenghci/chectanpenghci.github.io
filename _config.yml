@@ -1,24 +1,24 @@
-title: Hanlin Cai
+title: Peng Tan
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
-description: Two roads diverged in woods, I took the one less traveled by.
+description: Live in the moment, and the moment is forever!
 #Comment out url when working locally to resolve base urls correctly
 url: https://chectanpenghci.github.io/
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Peng Tan
+  avatar: tanpeng.jpg
  # bio:
-  email: hanlin.cai@ieee.org
+  email: tanpenghci@gmail.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  # twitter: lancecai2002
+  # github: GuangLun2000
+  # linkedin: hanlincai
+  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  # bilibili: 594030035
+  researchgate: https://www.researchgate.net/profile/Peng-Tan-6
+  # zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -40,10 +40,8 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Fundings
-    url: /fundings/
+  - title: Projects
+    url: /projects/
   - title: Hobbies
     url: /hobbies/
   - title: Blogs
@@ -66,7 +64,7 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  toc_levels: 1..5
   enable_coderay: false
 
   # coderay:
@@ -79,9 +77,9 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: tanpeng
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/10/15 by Hanlin Cai.
+# Latest update in 2023/10/15 by Peng Tan (檀鹏).
