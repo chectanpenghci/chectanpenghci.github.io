@@ -37,7 +37,3 @@ title: Hobbies
 Music, Coffee, Reading, Photograph...
 
 
-.star {
-  color: red; /* 设置星标符号的颜色 */
-  margin-right: 5px; /* 设置星标符号与文本之间的间距 */
-}
