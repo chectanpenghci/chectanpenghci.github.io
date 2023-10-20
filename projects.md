@@ -6,14 +6,14 @@ title: Projects
 
 Lastest Update: 18th Oct 2023
 
-### Current Project: Approaching Rhythm towards Synergized Interactions.
+### Current Project: Approaching Rhythm towards Synergized Interactions. (2021-2024)
 
 - Computational Frameworks for Synergized Interactions.
 
 - Empirical Studies for Synergized Interactions.
 
 
-### Previous Project: HCI Design for Digital Heritage Education
+### Previous Project: HCI Design for Digital Heritage Education. (2016-2020)
 
 - Investigating Digital Heritage Education in Classroom
 
