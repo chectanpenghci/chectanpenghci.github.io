@@ -6,7 +6,8 @@ title: Hobbies
 
 ### Hiker
 
-<img src="outdoors.jpg">
+<img src="/images/outdoors.jpg">
+
 
 
 
