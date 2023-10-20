@@ -7,7 +7,7 @@ title: Hobbies
 ### Outdoors
 
 <details>
-  <summary>Hiking, Treking, City Walk</summary>
+  <summary><strong>Hiking, Treking, City Walk</strong></summary>
   <p>
     I am an avid hiker and trekker. During the COVID-19, I embarked on a backpacking journey in western China (滇藏线，川藏线，新藏线) for over a year, exploring the region through hiking and hitchhiking. Along the way, I engaged in conversations with various individuals, witnessed awe-inspiring landscapes in remote areas(狮泉河至叶城), and developed admiration for the countless pilgrims on the road...
 
@@ -19,14 +19,18 @@ title: Hobbies
   </p>
 </details>
 
+<br>
+
 <details>
-  <summary>Running (Regular) and Marathon</summary>
+  <summary><strong>Running (Regular) and Marathon</strong></summary>
   <p>
     Kobe Marathon...
 
     <br> <img src="/images/kobe.jpg">
   </p>
 </details>
+
+<br>
 
 ### Daily Activities
 
