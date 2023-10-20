@@ -14,24 +14,10 @@ Lastest Update: 18th Oct 2023
   <p>Comming soon...</p>
 </div>
 
-<!-- Current Project: RunMe: Designing for Running Meditation -->
-<button id="toggle-btn2">RunMe: Designing for Running Meditation</button>
+<!-- Current Project: Empirical Studies: Designing for Synergized Interactions -->
+<button id="toggle-btn2">Empirical Studies: Designing for Synergized Interactions</button>
 
 <div id="content2" style="display: none;">
-  <p>Comming soon...</p>
-</div>
-
-<!-- Current Project: WalkMe: Designing for Walking Creativity -->
-<button id="toggle-btn3">WalkMe: Designing for Walking Creativity</button>
-
-<div id="content3" style="display: none;">
-  <p>Comming soon...</p>
-</div>
-
-<!-- Current Project: BreathMe: Designing for VR Breathing Meditation -->
-<button id="toggle-btn4">BreathMe: Designing for VR Breathing Meditation</button>
-
-<div id="content4" style="display: none;">
   <p>Comming soon...</p>
 </div>
 
@@ -41,14 +27,14 @@ Lastest Update: 18th Oct 2023
 <button id="toggle-btn5">Investigating Digital Heritage Education (DHE) in Classroom</button>
 
 <div id="content5" style="display: none;">
-  <p> In the DHE classroom, students use digital tools to assist in understanding intangible cultural heritage (ICH), which comprises intricate knowledge. However, studentsmay still encounter obstacles when trying to produce creative designs. To address this issue, we propose a framework that adopts a human-engaged computing perspective to enhance the understanding and design of ICHthrough phased synergized engagement between engaged students and engaging digital tools. To validate the effectiveness of the proposed framework, we designed, implemented, and tracked Cantonese Porcelain (CP) Creative Design courses over five years.<br><img src="/images/dhe.jpg"></p>
+  <p> In the DHE classroom, students use digital tools to assist in understanding intangible cultural heritage (ICH), which comprises intricate knowledge. However, studentsmay still encounter obstacles when trying to produce creative designs. To address this issue, we propose a framework that adopts a human-engaged computing perspective to enhance the understanding and design of ICHthrough phased synergized engagement between engaged students and engaging digital tools. To validate the effectiveness of the proposed framework, we designed, implemented, and tracked Cantonese Porcelain (CP) Creative Design courses over five years.<br><img src="/images/dhe.jpg"><br>Tan, P., Ren, X., Cheng, Z., & Ji, Y. (2023). A framework for students’ digital heritage education in the classroom-a human-engaged computing perspective. Education and Information Technologies, 1-23.<br>Lu, Z., Tan, P., Ji, Y., & Ma, X. (2022, June). The Crafts+ Fabrication Workshop: Engaging Students with Intangible Cultural Heritage-Oriented Creative Design. In Designing Interactive Systems Conference (pp. 1071-1084).<br>Tan, P., Ji, Y., & Xu, Y. (2021, September). Rethinking of Intangible Cultural Heritage Teaching with Creative Programming in China. In 2021 IEEE 4th International Conference on Multimedia Information Processing and Retrieval (MIPR) (pp. 299-302). IEEE.</p>
 </div>
 
 <!-- Previous Project: Designing Interactive Technologies for Novice Engagement of DHE -->
 <button id="toggle-btn6">Designing Interactive Technologies for Novice Engagement of DHE</button>
 
 <div id="content6" style="display: none;">
-  <p>The purpose of this project is to explore interactive technologies for learning Intangible Cultural Heritage (ICH) through embodied interaction, with a focus on learning and experience with traditional Cantonese Porcelain crafting. In addition to exploring the effects of various interactive technologies on learning ICH, we also place particular emphasis on the positive implications of integrating mobile augmented reality technology with physical ICH materials as a novel perspective for enhancing novice engagement and understanding of ICH.<br><img src="/images/webar.jpg"></p>
+  <p>The purpose of this project is to explore interactive technologies for learning Intangible Cultural Heritage (ICH) through embodied interaction, with a focus on learning and experience with traditional Cantonese Porcelain crafting. In addition to exploring the effects of various interactive technologies on learning ICH, we also place particular emphasis on the positive implications of integrating mobile augmented reality technology with physical ICH materials as a novel perspective for enhancing novice engagement and understanding of ICH.<br><img src="/images/webar.jpg"><br>Ji, Y., Tan, P., & Hills, D. (2020). Chinese traditional handicraft education using AR content. Leonardo, 53(2), 199-200.<br>Tan, P., Hills, D., Ji, Y., & Feng, K. (2020, April). Case study: creating embodied interaction with learning intangible cultural heritage through WebAR. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-6).<br>Tan, P., Ji, Y., Hills, D., & Fu, T. (2019). Bridging knowledge between craftsman and learner in Chinese intangible cultural heritage through WebAR. In SIGGRAPH ASIA Art Gallery/Art Papers (pp. 1-5).</p>
 </div>
 
 <script>
@@ -71,28 +57,6 @@ Lastest Update: 18th Oct 2023
       content2.style.display = "block";
     } else {
       content2.style.display = "none";
-    }
-  });
-
-  var button3 = document.getElementById("toggle-btn3");
-  var content3 = document.getElementById("content3");
-
-  button3.addEventListener("click", function() {
-    if (content3.style.display === "none") {
-      content3.style.display = "block";
-    } else {
-      content3.style.display = "none";
-    }
-  });
-
-  var button4 = document.getElementById("toggle-btn4");
-  var content4 = document.getElementById("content4");
-
-  button4.addEventListener("click", function() {
-    if (content4.style.display === "none") {
-      content4.style.display = "block";
-    } else {
-      content4.style.display = "none";
     }
   });
 
