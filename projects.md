@@ -21,7 +21,7 @@ Lastest Update: 18th Oct 2023
   <p>Comming soon...</p>
 </div>
 
-### Previous Project: HCI Design for Digital Heritage Education. (2016-2020)
+### Previous Project: Human-Engaged Computing for Digital Heritage Education. (2016-2020)
 
 <!-- Previous Project: HCI Design for Digital Heritage Education. (2016-2020) -->
 <button id="toggle-btn5">Investigating Digital Heritage Education (DHE) in Classroom</button>
