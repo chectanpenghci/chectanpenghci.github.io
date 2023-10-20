@@ -5,8 +5,6 @@ title: Blogs
 ---
 
 
+### Coming soon...
 
-- Coming soon...
-
-<br>
 
