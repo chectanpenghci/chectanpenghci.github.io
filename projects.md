@@ -17,8 +17,12 @@ Lastest Update: 18th Oct 2023
 
 - Investigating Digital Heritage Education (DHE) in Classroom
 
+In the DHE classroom, students use digital tools to assist in understanding intangible cultural heritage (ICH), which comprises intricate knowledge. However, studentsmay still encounter obstacles when trying to produce creative designs. To address this issue, we propose a framework that adopts a human-engaged computing perspective to enhance the understanding and design of ICHthrough phased synergized engagement between engaged students and engaging digital tools. To validate the effectiveness of the proposed framework, we designed, implemented, and tracked Cantonese Porcelain (CP) Creative Design courses over five years. The framework emphasizes both the human and digital aspects of the learning process, encouraging students to engage in a synergized relationship with digital tools to enhance their understanding of ICH and creative design skills. 
+
+<img src="/images/dhe.jpg">
+
 - Designing Inteactive Technologies for Novice Engagement of DHE
 
 The purpose of this project is to explore interactive technologies to learning Intangible Cultural Heritage (ICH) through embodied interaction with focus on learning and experience with traditional Cantonese Porcelain crafting. In addition to exploring the effects of various interactive technologies on learning Intangible Cultural Heritage (ICH), we also place particular emphasis on the positive implications of integrating mobile augmented reality technology with physical ICH materials as a novel perspective for enhancing novice engagement and understanding of ICH.
 
-<img src="/images/outdoors.jpg">
+<img src="/images/webar.jpg">
