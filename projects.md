@@ -30,3 +30,16 @@ Lastest Update: 18th Oct 2023
   <img src="/images/webar.jpg">>
   </p>
 </div>
+
+<script>
+  var button = document.getElementById("toggle-btn");
+  var content = document.getElementById("content");
+
+  button.addEventListener("click", function() {
+    if (content.style.display === "none") {
+      content.style.display = "block";
+    } else {
+      content.style.display = "none";
+    }
+  });
+</script>
