@@ -24,6 +24,8 @@ Lastest Update: 18th Oct 2023
 
 <button id="toggle-btn">Designing Inteactive Technologies for Novice Engagement of DHE</button>
 <div id="content" style="display: none;">
-  <p>The purpose of this project is to explore interactive technologies to learning Intangible Cultural Heritage (ICH) through embodied interaction with focus on learning and experience with traditional Cantonese Porcelain crafting. In addition to exploring the effects of various interactive technologies on learning Intangible Cultural Heritage (ICH), we also place particular emphasis on the positive implications of integrating mobile augmented reality technology with physical ICH materials as a novel perspective for enhancing novice engagement and understanding of ICH.
-<img src="/images/webar.jpg">></p>
+  <p>
+  The purpose of this project is to explore interactive technologies to learning Intangible Cultural Heritage (ICH) through embodied interaction with focus on learning and experience with traditional Cantonese Porcelain crafting. In addition to exploring the effects of various interactive technologies on learning Intangible Cultural Heritage (ICH), we also place particular emphasis on the positive implications of integrating mobile augmented reality technology with physical ICH materials as a novel perspective for enhancing novice engagement and understanding of ICH.
+  <img src="/images/webar.jpg">>
+  </p>
 </div>
