@@ -6,81 +6,19 @@ title: Projects
 
 Lastest Update: 18th Oct 2023
 
-<div class="panel-group" id="accordion">
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" 
-                href="#collapseOne">
-                点击我进行展开，再次点击我进行折叠。第 1 部分--hide 方法
-                </a>
-            </h4>
-        </div>
-        <div id="collapseOne" class="panel-collapse collapse in">
-            <div class="panel-body">
-                Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred 
-                nesciunt sapiente ea proident. Ad vegan excepteur butcher vice 
-                lomo.
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-success">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" 
-                href="#collapseTwo">
-                点击我进行展开，再次点击我进行折叠。第 2 部分--show 方法
-                </a>
-            </h4>
-        </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
-            <div class="panel-body">
-                Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred 
-                nesciunt sapiente ea proident. Ad vegan excepteur butcher vice 
-                lomo.
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-info">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" 
-                href="#collapseThree">
-                点击我进行展开，再次点击我进行折叠。第 3 部分--toggle 方法
-                </a>
-            </h4>
-        </div>
-        <div id="collapseThree" class="panel-collapse collapse">
-            <div class="panel-body">
-                Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred 
-                nesciunt sapiente ea proident. Ad vegan excepteur butcher vice 
-                lomo.
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-warning">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" 
-                href="#collapseFour">
-                点击我进行展开，再次点击我进行折叠。第 4 部分--options 方法
-                </a>
-            </h4>
-        </div>
-        <div id="collapseFour" class="panel-collapse collapse">
-            <div class="panel-body">
-                Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred 
-                nesciunt sapiente ea proident. Ad vegan excepteur butcher vice 
-                lomo.
-            </div>
-        </div>
-    </div>
-</div>
-<script>
-$(function () { $('#collapseFour').collapse({
-        toggle: false
-    })});
-    $(function () { $('#collapseTwo').collapse('show')});
-    $(function () { $('#collapseThree').collapse('toggle')});
-    $(function () { $('#collapseOne').collapse('hide')});
-</script>
+<button id="toggleBtn">展开/折叠</button>
+<div id="content">这里是要展开/折叠的内容</div>
+
+<button id="toggleBtn">展开/折叠</button>
+<div id="content">这里是要展开/折叠的内容</div>
+
+var toggleBtn = document.getElementById("toggleBtn");
+var content = document.getElementById("content");
+
+toggleBtn.addEventListener("click", function() {
+  if (content.style.display === "none") {
+    content.style.display = "block";
+  } else {
+    content.style.display = "none";
+  }
+});
