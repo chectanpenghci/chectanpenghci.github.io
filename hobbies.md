@@ -24,7 +24,7 @@ Kobe Marathon...
 
 <br>
 
-<img src="/images/kobe.jpg"></p>
+<img src="/images/kobe.jpg">
 
 ### Daily Activities
 
