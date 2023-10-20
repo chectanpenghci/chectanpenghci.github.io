@@ -4,9 +4,9 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-### Coming soon...
+### Hiker
 
-
+<img src="outdoors.jpg" class="floatpic" width="1000" height="750">
 
 
 
