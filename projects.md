@@ -15,9 +15,14 @@ Lastest Update: 18th Oct 2023
 
 ### Previous Project: HCI Design for Digital Heritage Education. (2016-2020)
 
+<button class="collapse-btn">展开/折叠</button>
+<div class="content">
+  <p>这是要被折叠和展开的内容。</p>
+</div>
+
 - Investigating Digital Heritage Education (DHE) in Classroom
 
-In the DHE classroom, students use digital tools to assist in understanding intangible cultural heritage (ICH), which comprises intricate knowledge. However, studentsmay still encounter obstacles when trying to produce creative designs. To address this issue, we propose a framework that adopts a human-engaged computing perspective to enhance the understanding and design of ICHthrough phased synergized engagement between engaged students and engaging digital tools. To validate the effectiveness of the proposed framework, we designed, implemented, and tracked Cantonese Porcelain (CP) Creative Design courses over five years. The framework emphasizes both the human and digital aspects of the learning process, encouraging students to engage in a synergized relationship with digital tools to enhance their understanding of ICH and creative design skills. 
+In the DHE classroom, students use digital tools to assist in understanding intangible cultural heritage (ICH), which comprises intricate knowledge. However, studentsmay still encounter obstacles when trying to produce creative designs. To address this issue, we propose a framework that adopts a human-engaged computing perspective to enhance the understanding and design of ICHthrough phased synergized engagement between engaged students and engaging digital tools. To validate the effectiveness of the proposed framework, we designed, implemented, and tracked Cantonese Porcelain (CP) Creative Design courses over five years. 
 
 <img src="/images/dhe.jpg">
 
