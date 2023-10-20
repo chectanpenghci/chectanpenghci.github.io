@@ -41,7 +41,7 @@ Lastest Update: 18th Oct 2023
 <button id="toggle-btn5">Investigating Digital Heritage Education (DHE) in Classroom</button>
 
 <div id="content5" style="display: none;">
-  <p>Commingsoon....<br><img src="/images/dhe.jpg"></p>
+  <p> In the DHE classroom, students use digital tools to assist in understanding intangible cultural heritage (ICH), which comprises intricate knowledge. However, studentsmay still encounter obstacles when trying to produce creative designs. To address this issue, we propose a framework that adopts a human-engaged computing perspective to enhance the understanding and design of ICHthrough phased synergized engagement between engaged students and engaging digital tools. To validate the effectiveness of the proposed framework, we designed, implemented, and tracked Cantonese Porcelain (CP) Creative Design courses over five years.<br><img src="/images/dhe.jpg"></p>
 </div>
 
 <!-- Previous Project: Designing Interactive Technologies for Novice Engagement of DHE -->
@@ -107,14 +107,14 @@ Lastest Update: 18th Oct 2023
     }
   });
 
-  var button5 = document.getElementById("toggle-btn6");
-  var content5 = document.getElementById("content6");
+  var button6 = document.getElementById("toggle-btn6");
+  var content6 = document.getElementById("content6");
 
   button5.addEventListener("click", function() {
-    if (content5.style.display === "none") {
-      content5.style.display = "block";
+    if (content6.style.display === "none") {
+      content6.style.display = "block";
     } else {
-      content5.style.display = "none";
+      content6.style.display = "none";
     }
   });
 </script>
