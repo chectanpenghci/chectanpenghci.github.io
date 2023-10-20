@@ -5,6 +5,8 @@ title: Projects
 Lastest Update: 18th Oct 2023
 ---
 
+### Current Project: Approaching Rhythm towards Synergized Interactions. (2021-2024)
+
 <!-- Current Project: Approaching Rhythm towards Synergized Interactions. (2021-2024) -->
 <button id="toggle-btn1">Computational Frameworks for Synergized Interactions</button>
 
@@ -33,11 +35,13 @@ Lastest Update: 18th Oct 2023
   <p>Coming soon...</p>
 </div>
 
+### Previous Project: HCI Design for Digital Heritage Education. (2016-2020)
+
 <!-- Previous Project: HCI Design for Digital Heritage Education. (2016-2020) -->
 <button id="toggle-btn5">Investigating Digital Heritage Education (DHE) in Classroom</button>
 
 <div id="content5" style="display: none;">
-  <p>In the DHE classroom, students use digital tools to assist in understanding intangible cultural heritage (ICH), which comprises intricate knowledge. However, students may still encounter obstacles when trying to produce creative designs. To address this issue, we propose a framework that adopts a human-engaged computing perspective to enhance the understanding and design of ICH through phased synergized engagement between engaged students and engaging digital tools. To validate the effectiveness of the proposed framework, we designed, implemented, and tracked Cantonese Porcelain (CP) Creative Design courses over five years.<br><img src="/images/dhe.jpg"></p>
+  <p>Commingsoon....<br><img src="/images/dhe.jpg"></p>
 </div>
 
 <!-- Previous Project: Designing Interactive Technologies for Novice Engagement of DHE -->
