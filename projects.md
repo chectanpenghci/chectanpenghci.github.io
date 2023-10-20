@@ -15,11 +15,6 @@ Lastest Update: 18th Oct 2023
 
 ### Previous Project: HCI Design for Digital Heritage Education. (2016-2020)
 
-<button class="collapse-btn"></button>
-<div class="content">
-  
-</div>
-
 <button id="toggle-btn">Investigating Digital Heritage Education (DHE) in Classroom</button>
 <div id="content" style="display: none;">
   <p>
