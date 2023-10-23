@@ -7,7 +7,16 @@ title: Projects
 
 Lastest Update: 15th Oct 2023.
 
-### Current Project: Approaching Rhythm towards Synergized Interactions. (2021-2024)
+### Current Project: Approaching Rhythm towards Synergized Interactions.
+
+<details>
+  <summary><strong><span class="star">*</span>Rhythm Research in Interactive System</strong></summary>
+  <p>
+    Coming Soon...
+  </p>
+</details>
+
+
 
 <details>
   <summary><strong><span class="star">*</span>Computational Frameworks for Synergized Interactions</strong></summary>
@@ -19,7 +28,14 @@ Lastest Update: 15th Oct 2023.
 
 
 <details>
-  <summary><strong><span class="star">*</span>Empirical Studies: Designing for Synergized Interactions</strong></summary>
+  <summary><strong><span class="star">*</span>Empirical Studies 1: Designing for Running Meditation</strong></summary>
+  <p>
+    Coming Soon...
+  </p>
+</details>
+
+<details>
+  <summary><strong><span class="star">*</span>Empirical Studies 2: Designing for Walking Creativity</strong></summary>
   <p>
     Coming Soon...
   </p>
@@ -27,7 +43,7 @@ Lastest Update: 15th Oct 2023.
 
 <br>
 
-### Previous Project: Human-Engaged Computing for Digital Heritage Education. (2016-2020)
+### Previous Project: Human-Engaged Computing for Digital Heritage Education. 
 
 <details>
   <summary><strong><span class="star">*</span>Investigating Digital Heritage Education (DHE) in Classroom</strong></summary>
