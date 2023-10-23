@@ -25,28 +25,24 @@ Lastest Update: 15th Oct 2023.
   </p>
 </details>
 
-
-
 <details>
-  <summary><strong><span class="star">*</span>Empirical Studies 1: Designing for Running Meditation</strong></summary>
+  <summary><strong><span class="star">*</span>Empirical Studies 1: Which Interaction Rhythm Matters: Designing for Walking Creativity</strong></summary>
   <p>
     Coming Soon...
   </p>
 </details>
 
+
 <details>
-  <summary><strong><span class="star">*</span>Empirical Studies 2: Designing for Walking Creativity</strong></summary>
+  <summary><strong><span class="star">*</span>Empirical Studies 2: Designing Synergized Interaction System for Running Meditation</strong></summary>
   <p>
     Coming Soon...
   </p>
 </details>
 
-<br>
-
-### Previous Project: Human-Engaged Computing for Digital Heritage Education. 
 
 <details>
-  <summary><strong><span class="star">*</span>Investigating Digital Heritage Education (DHE) in Classroom</strong></summary>
+  <summary><strong><span class="star">*</span>Empirical Studies 3: Synergized Interactions in Digital Heritage Education (DHE)</strong></summary>
   <p>
    In the DHE classroom, students use digital tools to assist in understanding intangible cultural heritage (ICH), which comprises intricate knowledge. However, studentsmay still encounter obstacles when trying to produce creative designs. To address this issue, we propose a framework that adopts a <strong>human-engaged computing</strong> perspective to enhance the understanding and design of ICHthrough phased synergized engagement between engaged students and engaging digital tools. To validate the effectiveness of the proposed framework, we designed, implemented, and tracked Cantonese Porcelain (CP) Creative Design courses over five years.<br><img src="/images/dhe.jpg"><br>
     <ol>
@@ -57,7 +53,9 @@ Lastest Update: 15th Oct 2023.
   </p>
 </details>
 
+<br>
 
+### Previous Project: Investigate Interactive Pattern for Digital Heritage Education. 
 
 <details>
   <summary><strong><span class="star">*</span>Designing Interactive Technologies for Engaging DHE</strong></summary>
