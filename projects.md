@@ -10,7 +10,7 @@ Lastest Update: 15th Oct 2023.
 ### Current Project: Approaching Rhythm towards Synergized Interactions.
 
 <details>
-  <summary><strong><span class="star">*</span>Rhythm Research in Interactive System</strong></summary>
+  <summary><strong>(1)</strong> Rhythm Research in Interactive System</summary>
   <p>
     Coming Soon...
   </p>
@@ -19,22 +19,14 @@ Lastest Update: 15th Oct 2023.
 
 
 <details>
-  <summary><strong><span class="star">*</span>Computational Frameworks for Synergized Interactions</strong></summary>
+  <summary><strong>(2)</strong> Computational Frameworks for Synergized Interactions</summary>
   <p>
     Coming Soon...
   </p>
 </details>
 
 <details>
-  <summary><strong><span class="star">*</span>Empirical Studies 1: Which Interaction Rhythm Matters: Designing for Walking Creativity</strong></summary>
-  <p>
-    Coming Soon...
-  </p>
-</details>
-
-
-<details>
-  <summary><strong><span class="star">*</span>Empirical Studies 2: Designing Synergized Interaction System for Running Meditation</strong></summary>
+  <summary><strong>(3)</strong> Which Interaction Rhythm Matters during Walking Creativity</summary>
   <p>
     Coming Soon...
   </p>
@@ -42,9 +34,17 @@ Lastest Update: 15th Oct 2023.
 
 
 <details>
-  <summary><strong><span class="star">*</span>Empirical Studies 3: Synergized Interactions in Digital Heritage Education (DHE)</strong></summary>
+  <summary><strong>(4)</strong> RunMe: An Adaptive Soundscape System for Running Meditation</summary>
   <p>
-   In the DHE classroom, students use digital tools to assist in understanding intangible cultural heritage (ICH), which comprises intricate knowledge. However, studentsmay still encounter obstacles when trying to produce creative designs. To address this issue, we propose a framework that adopts a <strong>human-engaged computing</strong> perspective to enhance the understanding and design of ICHthrough phased synergized engagement between engaged students and engaging digital tools. To validate the effectiveness of the proposed framework, we designed, implemented, and tracked Cantonese Porcelain (CP) Creative Design courses over five years.<br><img src="/images/dhe.jpg"><br>
+    Coming Soon...
+  </p>
+</details>
+
+
+<details>
+  <summary><strong>(5)</strong> Framing Synergized Interactions in the DHE classroom</summary>
+  <p>
+   In the Digital Heritage Education (DHE) classroom, students use digital tools to assist in understanding intangible cultural heritage (ICH), which comprises intricate knowledge. However, studentsmay still encounter obstacles when trying to produce creative designs. To address this issue, we propose a framework that adopts a <strong>human-engaged computing</strong> perspective to enhance the understanding and design of ICHthrough phased synergized engagement between engaged students and engaging digital tools. To validate the effectiveness of the proposed framework, we designed, implemented, and tracked Cantonese Porcelain (CP) Creative Design courses over five years.<br><img src="/images/dhe.jpg"><br>
     <ol>
       <li>Tan, P., Ren, X., Cheng, Z., & Ji, Y. (2023). <strong>A framework for students’ digital heritage education in the classroom-a human-engaged computing perspective.</strong> Education and Information Technologies, 1-23.</li><br>
       <li>Lu, Z., Tan, P., Ji, Y., & Ma, X. (2022, June). <strong>The Crafts+ Fabrication Workshop: Engaging Students with Intangible Cultural Heritage-Oriented Creative Design.</strong> In Designing Interactive Systems Conference (pp. 1071-1084).</li><br>
@@ -58,7 +58,7 @@ Lastest Update: 15th Oct 2023.
 ### Previous Project: Investigate Interactive Pattern for Digital Heritage Education. 
 
 <details>
-  <summary><strong><span class="star">*</span>Designing Interactive Technologies for Engaging DHE</strong></summary>
+  <summary><strong><span class="star">*</span></strong> Designing Interactive Technologies for Engaging DHE</summary>
   <p>
     The purpose of this project is to explore interactive technologies for learning Intangible Cultural Heritage (ICH) through embodied interaction, with a focus on learning and experience with traditional <strong>Cantonese Porcelain</strong> crafting. In addition to exploring the effects of various interactive technologies on learning ICH, we also place particular emphasis on the positive implications of integrating mobile augmented reality technology with physical ICH materials as a novel perspective for enhancing novice engagement and understanding of ICH.<br><img src="/images/webar.jpg"><br>
     <ol>
