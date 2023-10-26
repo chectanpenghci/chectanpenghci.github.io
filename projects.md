@@ -16,8 +16,6 @@ Lastest Update: 15th Oct 2023.
   </p>
 </details>
 
-
-
 <details>
   <summary><strong>(2)</strong> Computational Frameworks for Synergized Interactions</summary>
   <p>
@@ -26,7 +24,7 @@ Lastest Update: 15th Oct 2023.
 </details>
 
 <details>
-  <summary><strong>(3)</strong> Which Interaction Rhythm Matters during Walking Creativity</summary>
+  <summary><strong>(3)</strong> WalkMe: Which Interaction Rhythm Matters during Walking Creativity</summary>
   <p>
     Coming Soon...
   </p>
@@ -40,9 +38,15 @@ Lastest Update: 15th Oct 2023.
   </p>
 </details>
 
+<details>
+  <summary><strong>(5)</strong> BreathMe: Designing SI Technology for Breathing Meditation</summary>
+  <p>
+    Coming Soon...
+  </p>
+</details>
 
 <details>
-  <summary><strong>(5)</strong> Framing Synergized Interactions in the DHE classroom</summary>
+  <summary><strong>(6)</strong> Framing Synergized Interactions in the DHE classroom</summary>
   <p>
    In the Digital Heritage Education (DHE) classroom, students use digital tools to assist in understanding intangible cultural heritage (ICH), which comprises intricate knowledge. However, studentsmay still encounter obstacles when trying to produce creative designs. To address this issue, we propose a framework that adopts a <strong>human-engaged computing</strong> perspective to enhance the understanding and design of ICHthrough phased synergized engagement between engaged students and engaging digital tools. To validate the effectiveness of the proposed framework, we designed, implemented, and tracked Cantonese Porcelain (CP) Creative Design courses over five years.<br><img src="/images/dhe.jpg"><br>
     <ol>
