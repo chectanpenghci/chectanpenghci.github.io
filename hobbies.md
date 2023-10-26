@@ -17,6 +17,10 @@ title: Hobbies
 
     I have written some travel experiences in the form of short articles (<a href="https://mp.weixin.qq.com/s/bs45aBxZkw4K1uY3S5z5sQ">冈仁波齐</a>, <a href="https://mp.weixin.qq.com/s/fL2IaIrJf-3L_Fy4nJnz8A">洛克线</a>, <a href="https://mp.weixin.qq.com/s/zDHZY76mN7i6p1i0e42uww">武功山</a>, <a href="https://mp.weixin.qq.com/s/Df5suS7bnD8Gxb9KYJjNtw">雨崩</a>...), which I have uploaded to my personal WeChat official account (闲檀). If you are interested, you can subscribe to it. Certainly, you can also reach out to me through WeChat (tan_peng_hci) to discuss our travel experiences and perhaps even plan our next hiking trip together.
 
+    <br>
+
+    <br>
+    
     Currently, I am in <strong>Japan</strong>, utilizing my vacation time to hike two pilgrimage routes: (1) <strong><a href="https://www.tb-kumano.jp/en/kumano-kodo/">Kumano Kodo</a></strong> and (2) <strong><a href="https://shikoku-tourism.com/en/shikoku-henro/shikoku-henro">Shikoku Island's 88 Temples</a></strong>.
 
     <br>
@@ -32,7 +36,7 @@ title: Hobbies
 
 
 <details>
-  <summary><strong><span class="star">>>>></span> Running (Regular) and Marathon</strong></summary>
+  <summary><strong><span class="star">>>></span> Running (Regular) and Marathon</strong></summary>
   <p>
     Kobe Marathon...
 
