@@ -17,7 +17,7 @@ Lastest Update: 15th Oct 2023.
 </details>
 
 <details>
-  <summary><strong>(2)</strong> Computational Frameworks for Synergized Interactions</summary>
+  <summary><strong>(2)</strong> Computational Frameworks for Synergized Interactions (SI)</summary>
   <p>
     Coming Soon...
   </p>
