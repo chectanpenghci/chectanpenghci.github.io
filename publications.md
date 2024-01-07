@@ -4,9 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 15th Oct 2023.
+Lastest Update: 7th Jan 2024.
 
 ### Journal Paper
+
+- **Tan, P.** & Ren, X. (2023). [Rhythm Research in Interactive System Design: A Literature Review](10.1080/10447318.2023.2294628). International Journal of Human-Computer Interaction, 1-20. **[Q1, SCI]**
 
 - **Tan, P.**, Ren, X., Cheng, Z., & Ji, Y. (2023). [A framework for students’ digital heritage education in the classroom-a human-engaged computing perspective](https://link.springer.com/article/10.1007/s10639-023-12199-1). Education and Information Technologies, 1-23. **[Q1, SSCI]**
 
