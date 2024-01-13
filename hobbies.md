@@ -39,18 +39,25 @@ title: Hobbies
   <summary><strong><span class="star">>>></span> Running (Regular) and Marathon</strong></summary>
   <p>
     I'm very happy to have successfully enjoyed the <strong>Kobe Marathon 2023</strong>. During the run, I felt the enthusiasm of the city's residents, the support of fellow runners, the beautiful scenery, and the human care. I will continue to run forward~
-  <br> 
 
-  <p>
+  <br>
+
+  <br>
+
     Next, I will prepare for <strong>Takushima Marathon 2024</strong>~
-  <br> 
+
+  <br>
+
+  <br>
 
   <img src="/images/kobe4.jpg">
 
   <br>
 
-  <img src="/images/kobe1.jpg">
+  <br>
 
+  <img src="/images/kobe1.jpg">
+ </p>
 </details>
 
 <br>
